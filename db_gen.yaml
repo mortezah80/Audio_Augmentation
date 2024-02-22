@@ -1,0 +1,6 @@
+db_address: #'Data Folder Path'#
+new_db_name: #'Output Folder Name'#
+sr: 44100
+file_name: sample
+num_sample: 144
+len_sample: 300
